@@ -1,6 +1,6 @@
 # model-switch
 
-[pi coding agent](https://github.com/earendil-works/pi-coding-agent) 扩展：授权 agent 自主切换当前会话的模型——设计/规划类任务切到高阶模型，开发/编码类任务切到低阶快速模型，按任务类型动态分配算力与费用。
+[pi agent](https://github.com/earendil-works/pi) 扩展：授权 agent 自主切换当前会话的模型——设计/规划类任务切到高阶模型，开发/编码类任务切到低阶快速模型，按任务类型动态分配算力与费用。
 
 ## 功能
 
